@@ -1,5 +1,17 @@
 == README
 
+# Primeiro Commit do Projeto
+#  
+# Comando utilados:
+#     - rails new true_false
+#     - blunde install
+#     - rake db:create
+
+
+
+
+
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
